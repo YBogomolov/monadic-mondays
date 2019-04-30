@@ -1,0 +1,47 @@
+{
+  "name": "monadic-mondays",
+  "version": "0.0.1",
+  "description": "Code samples for #monadicmonday topics",
+  "main": "index.js",
+  "scripts": {
+    "ep1": "ts-node ./src/episode-1/these.ts",
+    "ep2": "ts-node ./src/episode-2/rings.ts",
+    "ep3": "ts-node ./src/episode-3/histo.ts",
+    "ep4": "ts-node ./src/episode-4/remote-data.ts",
+    "ep5": "ts-node ./src/episode-5/tagless.ts"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/YBogomolov/monadic-mondays.git"
+  },
+  "keywords": [
+    "monadic",
+    "monday",
+    "typescript",
+    "fp"
+  ],
+  "author": "Yuriy Bogomolov <yuriy.bogomolov@gmail.com>",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/YBogomolov/monadic-mondays/issues"
+  },
+  "homepage": "https://github.com/YBogomolov/monadic-mondays#readme",
+  "dependencies": {
+    "@devexperts/remote-data-ts": "^0.5.0",
+    "@types/bluebird": "^3.5.26",
+    "@types/isomorphic-fetch": "0.0.35",
+    "@types/mocha": "^5.2.6",
+    "@types/node": "^11.11.3",
+    "@types/node-fetch": "^2.1.7",
+    "abort-controller": "^2.0.3",
+    "bluebird": "^3.5.3",
+    "circuit-breaker-monad": "^0.1.9",
+    "fp-ts": "^1.15.1",
+    "monocle-ts": "^1.7.1",
+    "node-fetch": "^2.3.0",
+    "ts-jest": "^24.0.0",
+    "ts-node": "^8.0.3",
+    "tslint": "^5.14.0",
+    "typescript": "^3.4.3"
+  }
+}
