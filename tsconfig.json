@@ -19,7 +19,7 @@
     "forceConsistentCasingInFileNames": true,
     "suppressImplicitAnyIndexErrors": true,
     "declaration": true,
-    "types": ["node", "jest", "mocha"],
+    "types": ["node"],
     "typeRoots": ["./src/@types"],
     "lib": ["esnext", "dom"]
   },
