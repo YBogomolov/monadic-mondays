@@ -2,7 +2,7 @@
 
 This repository contains code samples for [#monadicmonday](https://twitter.com/hashtag/monadicmonday) topics.
 
-You may also find monthly compilations [on Medium](https://medium.com/tag/monadicmonday/archive) and [on Dev.to](https://dev.to/t/monadicmonday).
+You can also find monthly compilations [on Medium](https://medium.com/tag/monadicmonday/archive) and [on Dev.to](https://dev.to/t/monadicmonday).
 
 ## How to run
 
