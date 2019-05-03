@@ -8,7 +8,7 @@
     "ep2": "ts-node ./src/episode-2/rings.ts",
     "ep3": "ts-node ./src/episode-3/histo.ts",
     "ep4": "ts-node ./src/episode-4/remote-data.ts",
-    "ep5": "ts-node ./src/episode-5/tagless.ts",
+    "ep5": "ts-node ./src/episode-5/run.ts",
     "ep5:test": "jest ./src/episode-5/tagless.test.ts"
   },
   "repository": {
