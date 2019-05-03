@@ -19,8 +19,7 @@
     "forceConsistentCasingInFileNames": true,
     "suppressImplicitAnyIndexErrors": true,
     "declaration": true,
-    "types": ["node"],
-    "typeRoots": ["./src/@types"],
+    "types": ["node", "jest"],
     "lib": ["esnext", "dom"]
   },
   "include": ["./src/**/*.ts"],
