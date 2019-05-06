@@ -9,7 +9,8 @@
     "ep3": "ts-node ./src/episode-3/histo.ts",
     "ep4": "ts-node ./src/episode-4/remote-data.ts",
     "ep5": "ts-node ./src/episode-5/run.ts",
-    "ep5:test": "jest ./src/episode-5/tagless.test.ts"
+    "ep5:test": "jest ./src/episode-5/tagless.test.ts",
+    "ep6": "ts-node ./src/episode-6/run.ts"
   },
   "repository": {
     "type": "git",
