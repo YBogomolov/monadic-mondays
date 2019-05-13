@@ -10,7 +10,8 @@
     "ep4": "ts-node ./src/episode-4/remote-data.ts",
     "ep5": "ts-node ./src/episode-5/run.ts",
     "ep5:test": "jest ./src/episode-5/tagless.test.ts",
-    "ep6": "ts-node ./src/episode-6/run.ts"
+    "ep6": "ts-node ./src/episode-6/run.ts",
+    "ep7": "ts-node ./src/episode-7/users.ts"
   },
   "repository": {
     "type": "git",
