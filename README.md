@@ -14,6 +14,21 @@ To run the examples, you'll need to install all dependencies by issuing `npm ci`
 2. `npm run ep8:stack-fail` – run a naïve stack-unsafe Free moand evaluation
 3. `npm run ep8:stack` - run a stack-safe trampolined Free monad evaluation
 
+## Published episodes:
+
+1. [Episode 1: These/Ior](https://twitter.com/YuriyBogomolov/status/1112712151062458370)
+2. [Episode 2: Rings](https://twitter.com/YuriyBogomolov/status/1115202088080953346)
+3. [Episode 3: Recursion schemes](https://twitter.com/YuriyBogomolov/status/1117723946005213185)
+4. [Episode 4: Either, Validation & RemoteData](https://twitter.com/YuriyBogomolov/status/1120345997509648386)
+5. [Episode 5: Tagless Final](https://twitter.com/YuriyBogomolov/status/1122892243596140545)
+6. [Episode 6: ZIO in TypeScript](https://twitter.com/YuriyBogomolov/status/1125403292530507776)
+7. [Episode 7: Functional optics](https://twitter.com/YuriyBogomolov/status/1127887720431390721)
+8. [Episode 8: Free monads](https://twitter.com/YuriyBogomolov/status/1130415558556565504)
+
+## Compilations:
+
+- April: [Dev.to](https://dev.to/ybogomolov/monadicmonday-compilation-april-pjo), [Medium](https://link.medium.com/GYuOlzTzfW)
+
 ## Contacts
 
 If you have any questions, please ping me back at [@ybogomolov](https://t.me/ybogomolov) in Telegram, [@YuriyBogomolov](https://twitter.com/YuriyBogomolov) in Twitter or via [yuriy.bogomolov@gmail.com](mailto:yuriy.bogomolov@gmail.com?subject=Monadic%20Monday%20feedback).
