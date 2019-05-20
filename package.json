@@ -11,7 +11,10 @@
     "ep5": "ts-node ./src/episode-5/run.ts",
     "ep5:test": "jest ./src/episode-5/tagless.test.ts",
     "ep6": "ts-node ./src/episode-6/run.ts",
-    "ep7": "ts-node ./src/episode-7/users.ts"
+    "ep7": "ts-node ./src/episode-7/users.ts",
+    "ep8": "ts-node ./src/episode-8/free.ts",
+    "ep8:stack": "FAIL=false ts-node ./src/episode-8/stack.ts",
+    "ep8:stack-fail": "FAIL=true ts-node ./src/episode-8/stack.ts"
   },
   "repository": {
     "type": "git",
