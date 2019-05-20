@@ -11,7 +11,7 @@ To run the examples, you'll need to install all dependencies by issuing `npm ci`
 ### Extra bits
 
 1. `npm run ep5:test` – run tests for Tagless Final
-2. `npm run ep8:stack-fail` – run a naïve stack-unsafe Free moand evaluation
+2. `npm run ep8:stack-fail` – run a naïve stack-unsafe Free monad evaluation
 3. `npm run ep8:stack` - run a stack-safe trampolined Free monad evaluation
 
 ## Published episodes:
