@@ -14,7 +14,7 @@ To run the examples, you'll need to install all dependencies by issuing `npm ci`
 2. `npm run ep8:stack-fail` – run a naïve stack-unsafe Free monad evaluation
 3. `npm run ep8:stack` - run a stack-safe trampolined Free monad evaluation
 
-## Published episodes:
+## Published episodes
 
 1. [Episode 1: These/Ior](https://twitter.com/YuriyBogomolov/status/1112712151062458370)
 2. [Episode 2: Rings](https://twitter.com/YuriyBogomolov/status/1115202088080953346)
@@ -25,7 +25,7 @@ To run the examples, you'll need to install all dependencies by issuing `npm ci`
 7. [Episode 7: Functional optics](https://twitter.com/YuriyBogomolov/status/1127887720431390721)
 8. [Episode 8: Free monads](https://twitter.com/YuriyBogomolov/status/1130415558556565504)
 
-## Compilations:
+## Compilations
 
 - April: [Dev.to](https://dev.to/ybogomolov/monadicmonday-compilation-april-pjo), [Medium](https://link.medium.com/GYuOlzTzfW)
 
