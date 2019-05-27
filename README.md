@@ -25,12 +25,12 @@ To run the examples, you'll need to install all dependencies by issuing `npm ci`
 6. [Episode 6: ZIO in TypeScript](https://twitter.com/YuriyBogomolov/status/1125403292530507776)
 7. [Episode 7: Functional optics](https://twitter.com/YuriyBogomolov/status/1127887720431390721)
 8. [Episode 8: Free monads](https://twitter.com/YuriyBogomolov/status/1130415558556565504)
-9. [Episode 9: Type-level programming]()
+9. [Episode 9: Type-level programming](https://twitter.com/YuriyBogomolov/status/1132965709275963393)
 
 ## Compilations
 
 - April: [Dev.to](https://dev.to/ybogomolov/monadicmonday-compilation-april-pjo), [Medium](https://link.medium.com/GYuOlzTzfW)
-- May: [Dev.to](https://dev.to/ybogomolov/monadicmonday-compilation-may-5d3c), [Medium]()
+- May: [Dev.to](https://dev.to/ybogomolov/monadicmonday-compilation-may-5d3c), [Medium](https://medium.com/@yuriybogomolov/monadicmonday-compilation-may-57d27f771a3a)
 
 ## Contacts
 
