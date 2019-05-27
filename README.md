@@ -13,6 +13,7 @@ To run the examples, you'll need to install all dependencies by issuing `npm ci`
 1. `npm run ep5:test` – run tests for Tagless Final
 2. `npm run ep8:stack-fail` – run a naïve stack-unsafe Free monad evaluation
 3. `npm run ep8:stack` - run a stack-safe trampolined Free monad evaluation
+4. `npm run ep9:dtslint` – run a DTSLint for type-level tests
 
 ## Published episodes
 
@@ -24,10 +25,12 @@ To run the examples, you'll need to install all dependencies by issuing `npm ci`
 6. [Episode 6: ZIO in TypeScript](https://twitter.com/YuriyBogomolov/status/1125403292530507776)
 7. [Episode 7: Functional optics](https://twitter.com/YuriyBogomolov/status/1127887720431390721)
 8. [Episode 8: Free monads](https://twitter.com/YuriyBogomolov/status/1130415558556565504)
+9. [Episode 9: Type-level programming]()
 
 ## Compilations
 
 - April: [Dev.to](https://dev.to/ybogomolov/monadicmonday-compilation-april-pjo), [Medium](https://link.medium.com/GYuOlzTzfW)
+- May: [Dev.to](), [Medium]()
 
 ## Contacts
 
