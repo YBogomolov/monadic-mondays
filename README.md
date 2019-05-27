@@ -30,7 +30,7 @@ To run the examples, you'll need to install all dependencies by issuing `npm ci`
 ## Compilations
 
 - April: [Dev.to](https://dev.to/ybogomolov/monadicmonday-compilation-april-pjo), [Medium](https://link.medium.com/GYuOlzTzfW)
-- May: [Dev.to](), [Medium]()
+- May: [Dev.to](https://dev.to/ybogomolov/monadicmonday-compilation-may-5d3c), [Medium]()
 
 ## Contacts
 
