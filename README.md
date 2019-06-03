@@ -26,6 +26,7 @@ To run the examples, you'll need to install all dependencies by issuing `npm ci`
 7. [Episode 7: Functional optics](https://twitter.com/YuriyBogomolov/status/1127887720431390721)
 8. [Episode 8: Free monads](https://twitter.com/YuriyBogomolov/status/1130415558556565504)
 9. [Episode 9: Type-level programming](https://twitter.com/YuriyBogomolov/status/1132965709275963393)
+10. [Episode 10: Reasons to chose FP](https://twitter.com/YuriyBogomolov/status/1135540508590268418) (no code)
 
 ## Compilations
 
