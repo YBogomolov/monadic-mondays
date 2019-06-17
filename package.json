@@ -16,7 +16,8 @@
     "ep8:stack": "FAIL=false ts-node ./src/episode-8/stack.ts",
     "ep8:stack-fail": "FAIL=true ts-node ./src/episode-8/stack.ts",
     "ep9:dtslint": "dtslint ./src/episode-9/types",
-    "ep9": "jest ./src/episode-9/typelevel.test.ts"
+    "ep9": "jest ./src/episode-9/typelevel.test.ts",
+    "ep11": "ts-node ./src/episode-11/run.ts"
   },
   "repository": {
     "type": "git",
@@ -44,8 +45,9 @@
     "bluebird": "^3.5.3",
     "circuit-breaker-monad": "^0.1.9",
     "dtslint": "^0.7.6",
-    "fp-ts": "^1.15.1",
+    "fp-ts": "^1.18.2",
     "jest": "^24.7.1",
+    "kleisli-ts": "^0.2.0",
     "monocle-ts": "^1.7.1",
     "node-fetch": "^2.3.0",
     "ts-jest": "^24.0.2",
