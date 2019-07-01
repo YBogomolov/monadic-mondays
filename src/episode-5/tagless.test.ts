@@ -1,4 +1,4 @@
-import { State, URI as StateURI } from 'fp-ts/lib/State';
+import { State } from 'fp-ts/lib/State';
 
 import { Console, main, Program, Random } from './tagless';
 
