@@ -28,6 +28,7 @@ To run the examples, you'll need to install all dependencies by issuing `npm ci`
 9. [Episode 9: Type-level programming](https://twitter.com/YuriyBogomolov/status/1132965709275963393)
 10. [Episode 10: Reasons to choose FP](https://twitter.com/YuriyBogomolov/status/1135540508590268418) (no code)
 11. [Episode 11: Kleisli arrows](https://twitter.com/YuriyBogomolov/status/1140569042299867136)
+12. [Episode 12: Futures](https://twitter.com/YuriyBogomolov/status/1145705040327467011)
 
 ## Compilations
 
