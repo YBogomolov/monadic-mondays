@@ -29,7 +29,7 @@ To run the examples, you'll need to install all dependencies by issuing `npm ci`
 10. [Episode 10: Reasons to choose FP](https://twitter.com/YuriyBogomolov/status/1135540508590268418) (no code)
 11. [Episode 11: Kleisli arrows](https://twitter.com/YuriyBogomolov/status/1140569042299867136)
 12. [Episode 12: Futures](https://twitter.com/YuriyBogomolov/status/1145705040327467011)
-13. [Episode 13: Property-based testing]()
+13. [Episode 13: Property-based testing](https://twitter.com/YuriyBogomolov/status/1148153780443189248)
 
 ## Compilations
 
