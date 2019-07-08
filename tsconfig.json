@@ -19,9 +19,20 @@
     "forceConsistentCasingInFileNames": true,
     "suppressImplicitAnyIndexErrors": true,
     "declaration": true,
-    "types": ["node", "jest"],
-    "lib": ["esnext", "dom"]
+    "types": [
+      "node",
+      "jest",
+      "expect"
+    ],
+    "lib": [
+      "esnext",
+      "dom"
+    ]
   },
-  "include": ["./src/**/*.ts"],
-  "exclude": ["node_modules", "**/*.test.ts"]
+  "include": [
+    "./src/**/*.ts"
+  ],
+  "exclude": [
+    "node_modules"
+  ]
 }
