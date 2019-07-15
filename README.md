@@ -6,7 +6,7 @@ You can also find monthly compilations [on Medium](https://medium.com/tag/monadi
 
 ## How to run
 
-To run the examples, you'll need to install all dependencies by issuing `npm ci` command. After that you can run code for each episode using `npm run epN`, where `N ∈ [1, K]`, and `K` is the number of last published episode.
+To run the examples, you'll need to install all dependencies by issuing `npm ci` command. After that you can run code for each episode using `npm run epN`, where `N ∈ [1, 13]`.
 
 ### Extra bits
 
@@ -30,11 +30,14 @@ To run the examples, you'll need to install all dependencies by issuing `npm ci`
 11. [Episode 11: Kleisli arrows](https://twitter.com/YuriyBogomolov/status/1140569042299867136)
 12. [Episode 12: Futures](https://twitter.com/YuriyBogomolov/status/1145705040327467011)
 13. [Episode 13: Property-based testing](https://twitter.com/YuriyBogomolov/status/1148153780443189248)
+14. [Episode 14: Final words](https://twitter.com/YuriyBogomolov/status/1150654389092311040) (no code)
 
 ## Compilations
 
 - April: [Dev.to](https://dev.to/ybogomolov/monadicmonday-compilation-april-pjo), [Medium](https://link.medium.com/GYuOlzTzfW)
 - May: [Dev.to](https://dev.to/ybogomolov/monadicmonday-compilation-may-5d3c), [Medium](https://medium.com/@yuriybogomolov/monadicmonday-compilation-may-57d27f771a3a)
+- June: [Dev.to](https://dev.to/ybogomolov/monadicmonday-compilation-june-143h)
+- July: [Dev.to](https://dev.to/ybogomolov/monadicmonday-compilation-july-4pal)
 
 ## Contacts
 
