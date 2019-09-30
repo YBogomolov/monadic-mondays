@@ -31,6 +31,7 @@ To run the examples, you'll need to install all dependencies by issuing `npm ci`
 12. [Episode 12: Futures](https://twitter.com/YuriyBogomolov/status/1145705040327467011)
 13. [Episode 13: Property-based testing](https://twitter.com/YuriyBogomolov/status/1148153780443189248)
 14. [Episode 14: Final words](https://twitter.com/YuriyBogomolov/status/1150654389092311040) (no code)
+15. [Episode spontaneous: session types](https://twitter.com/YuriyBogomolov/status/1178697351822794753)
 
 ## Compilations
 
